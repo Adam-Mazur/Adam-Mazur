@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I’m an AI student @PUT passionate about NLP, computer vision, and generative AI. I enjoy tackling challenging projects and learning by doing. I’m currently pursuing a Bachelor’s degree and strengthening my skills in Python, PyTorch, and LangChain through personal projects.
 
