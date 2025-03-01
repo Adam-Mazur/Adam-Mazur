@@ -4,9 +4,10 @@ I’m an AI student @PUT passionate about NLP, computer vision, and generative A
 
 ## About me 💭
 
-- 🔭 I’m currently working on [tree species classification](https://github.com/GHOST-Science-Club/tree-classification-irim) and a RAG based chatbot using OpenAI's API.
-- 🌱 I’m currently learning 🦜🔗LangChain and Streamlit.
-- 👯 I’m looking to collaborate on some research projects related to AI/ML. 
+- 🔭 I’m currently working on [tree species classification](https://github.com/GHOST-Science-Club/tree-classification-irim) and a RAG-based chatbot using OpenAI's API.
+- 🌱 I’m currently learning LangChain and Streamlit.
+- 👯 I’m looking to collaborate on research projects related to AI/ML.
+- 📚 In my free time, I organize AI-related events and manage the GHOST Science Club at PUT.
 
 ## 🛠️ Languages and Tools
 
