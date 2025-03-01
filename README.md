@@ -9,6 +9,14 @@ I’m an AI student @PUT passionate about NLP, computer vision, and generative A
 - 👯 I’m looking to collaborate on research projects related to AI/ML.
 - 📚 In my free time, I organize AI-related events and manage the GHOST Science Club at PUT.
 
+## My projects 🎈
+- [Lazy-Llama](https://github.com/Adam-Mazur/Lazy-Llama): An implementation of LazyLLM token pruning for LLaMa 2 model family. This project is an implementation of the dynamic token pruning algorithm based on [this](https://arxiv.org/abs/2407.14057) research paper. The goal was to speed up the inference of the LLaMa 2 model by omitting certain tokens during generation. 
+- [TinyTensor](https://github.com/Adam-Mazur/TinyTensor): A from-scratch reimplementation of PyTorch’s Tensor object in C++. The goal was to provide a lightweight yet fully capable Tensor implementation that serves as a learning tool for exploring PyTorch internals. While it is still far from fully replicating PyTorch’s features, it is already capable of training simple neural networks, such as a CNN for MNIST, with reasonable performance.
+- [GHOST x IRIM](https://github.com/GHOST-Science-Club/tree-classification-irim): An initiative by the GHOST student organization to develop and test an AI algorithm for identifying tree species from aerial photos, focusing on Polish forests. This team effort aims to surpass the current SOTA on the [PureForest](https://huggingface.co/datasets/IGNF/PureForest) dataset and possibly write a publication about our results in the future.
+
+## Contact 📧
+- My LinkedIn: [link](https://www.linkedin.com/in/adam-mazur-929955292/)
+
 ## 🛠️ Languages and Tools
 
 <br>
